@@ -12,7 +12,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: #2196f3 !important;
     transition: all 0.2s;
 }
 
@@ -337,7 +337,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #00ab6b;
+    border-left: 4px solid #2196f3;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -798,9 +798,9 @@ iframe {
 
 .jumbotron.fortags a {
     padding: 5px 10px 7px;
-    background: #222;
+    background: #2196f3;
     border-radius: 30px;
-    color: #fff;
+    color: #f8f9fa !important;
     font-weight: 500;
     text-transform: lowercase;
     font-size: 0.8rem;
